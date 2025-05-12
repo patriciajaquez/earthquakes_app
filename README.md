@@ -9,7 +9,6 @@ This project's dashboard banner was generated using **Stable Diffusion** with a 
 A futuristic dashboard with a glowing 3D world map showing earthquake epicenters. Neon orange and blue seismic charts, dynamic heatmaps, aligned UI elements, no text. Dark cyberpunk city background with holograms. Ultra-detailed, high-tech, ambient lighting, 4K.
 
 ### 🧪 Generation Settings
-- **Prompt**: 
 - **Seed**: `2314`
 - **Steps**: `90`
 - **Resolution**: `4K`
