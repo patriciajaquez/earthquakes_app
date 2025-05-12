@@ -1,6 +1,6 @@
 # 🌍 Interactive Seismic Activity Dashboard
 
-![Seismic Dashboard Banner](https://img.icons8.com/color/96/earthquakes.png)
+![Seismic Dashboard Banner](img/interactivebanner.jpg)
 
 ## Overview
 
