@@ -1,6 +1,28 @@
 # 🌍 Interactive Seismic Activity Dashboard
 
-![Seismic Dashboard Banner](img/interactivebanner.jpg)
+![Seismic Dashboard Banner](img/earthquakeappbanner.png)
+
+### 🧪 Generation Settings
+- **Seed**: `2314`
+- **Steps**: `90`
+- **Resolution**: `4K`
+- **Sampler**: DPM++ 2M Karras (recommended)
+- **Model**: Stable Diffusion 1.5 or SDXL (for higher detail)
+- **Refiner (optional)**: Yes, for sharper UI elements and alignment
+
+### 🛠️ How to Recreate It
+You can recreate a similar image using the same prompt and settings in any of the following tools:
+- 🖥️ **Automatic1111 WebUI**
+- 🌐 **HuggingFace Diffusers + `torch`**
+- 🧠 **InvokeAI**
+- 🧪 **ComfyUI**
+
+Make sure to:
+- Use a seed (`2314`) for deterministic output
+- Disable any watermark or text overlays
+- Keep CFG scale around `7.0` to `9.0` for prompt adherence
+
+> This image is free to use within the scope of this project. Attribution appreciated but not required.
 
 ## Overview
 
@@ -43,11 +65,13 @@
 ```
 earthquakes_app/
 │
-├── app.py                # Main Streamlit dashboard
+├── app.py                         # Main Streamlit dashboard
 ├── data/
-│   └── all_month.csv     # Seismic data (CSV)
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+│   └── all_month.csv              # Seismic data (CSV)
+├── img/
+│   └── earthquakeappbanner.png    # Banner
+├── requirements.txt               # Python dependencies
+└── README.md                      # Project documentation
 ```
 
 ---
