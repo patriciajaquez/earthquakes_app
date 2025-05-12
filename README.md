@@ -2,6 +2,12 @@
 
 ![Seismic Dashboard Banner](img/earthquakeappbanner.png)
 
+## 🖼️ Dashboard Banner Artwork
+This project's dashboard banner was generated using **Stable Diffusion** with a custom prompt to visually represent seismic activity in a futuristic interface. No text or labels were included to keep it clean and versatile for any display.
+
+### 🎨 Prompt Used
+A futuristic dashboard with a glowing 3D world map showing earthquake epicenters. Neon orange and blue seismic charts, dynamic heatmaps, aligned UI elements, no text. Dark cyberpunk city background with holograms. Ultra-detailed, high-tech, ambient lighting, 4K.
+
 ### 🧪 Generation Settings
 - **Seed**: `2314`
 - **Steps**: `90`
