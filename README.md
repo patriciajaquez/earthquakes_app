@@ -169,4 +169,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> 📚 Created as part of the Data Analytics and AI Bootcamp by [Patricia Jaquez](https://github.com/patriciajaquez). This project demonstrates practical applications of data visualization and analysis techniques.
+> 📚 Created as part of the Data Analytics and AI Bootcamp (https://github.com/patriciajaquez). This project demonstrates practical applications of data visualization and analysis techniques.
