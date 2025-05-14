@@ -2,30 +2,7 @@
 
 ![Seismic Dashboard Banner](img/earthquakeappbanner.png)
 
-## 🖼️ Dashboard Banner Artwork
-This project's dashboard banner was generated using **Gok** with a custom prompt to visually represent seismic activity in a futuristic interface. No text or labels were included to keep it clean and versatile for any display.
-
-## Image Generation Instructions
-
-To recreate the dashboard image, you can use AI image generation tools. Below are detailed steps and parameters to achieve a consistent result:
-
-- **Tool Options**: Use Grok (via xAI) or Stable Diffusion.
-- **Prompt**: "futuristic dashboard with a glowing 3D world map showing earthquake epicenters, neon orange and blue seismic charts, dynamic heatmaps, aligned UI elements, no text, dark cyberpunk city background with holograms, ultra-detailed, high-tech, ambient lighting, 4K, for GitHub README.md file titled Interactive Seismic Activity"
-- **Seed**: 12345 (use this seed value for reproducibility; adjust if needed for variation).
-- **Steps**: 50 (increase to 75-100 for higher detail if supported by your tool).
-- **Resolution**: 3840x2160 (4K) for optimal quality.
-- **Additional Settings**:
-  - CFG Scale: 7.5 (guidance scale for Stable Diffusion, adjust between 7-12 for balance).
-  - Sampler: Euler a or DPM++ 2M Karras (recommended for detailed outputs).
-  - Aspect Ratio: 16:9 (to match the 4K resolution).
-
-### 🛠️ How to Recreate It
-You can recreate a similar image using the same prompt and settings in any of the following tools:
-- 🖥️ **Stable Diffusion**
-- 🌐 **Grok**
-- 🧠 **ChatGPT**
-
-> This image is free to use within the scope of this project. Attribution appreciated but not required.
+---
 
 ## Overview
 
@@ -146,6 +123,33 @@ The dashboard expects a CSV file (`all_month.csv`) with at least the following c
   Edit the `magnitude_colors` dictionary in `app.py`.
 - **Add new analyses:**  
   Extend the dashboard by adding new tabs or charts using Streamlit and Plotly.
+
+---
+
+## 🖼️ Dashboard Banner Artwork
+This project's dashboard banner was generated using **Gok** with a custom prompt to visually represent seismic activity in a futuristic interface. No text or labels were included to keep it clean and versatile for any display.
+
+### Image Generation Instructions
+
+To recreate the dashboard image, you can use AI image generation tools. Below are detailed steps and parameters to achieve a consistent result:
+
+- **Tool Options**: Use Grok (via xAI) or Stable Diffusion.
+- **Prompt**: "futuristic dashboard with a glowing 3D world map showing earthquake epicenters, neon orange and blue seismic charts, dynamic heatmaps, aligned UI elements, no text, dark cyberpunk city background with holograms, ultra-detailed, high-tech, ambient lighting, 4K, for GitHub README.md file titled Interactive Seismic Activity"
+- **Seed**: 12345 (use this seed value for reproducibility; adjust if needed for variation).
+- **Steps**: 50 (increase to 75-100 for higher detail if supported by your tool).
+- **Resolution**: 3840x2160 (4K) for optimal quality.
+- **Additional Settings**:
+  - CFG Scale: 7.5 (guidance scale for Stable Diffusion, adjust between 7-12 for balance).
+  - Sampler: Euler a or DPM++ 2M Karras (recommended for detailed outputs).
+  - Aspect Ratio: 16:9 (to match the 4K resolution).
+
+### 🛠️ How to Recreate It
+You can recreate a similar image using the same prompt and settings in any of the following tools:
+- 🖥️ **Stable Diffusion**
+- 🌐 **Grok**
+- 🧠 **ChatGPT**
+
+> This image is free to use within the scope of this project. Attribution appreciated but not required.
 
 ---
 
