@@ -1,12 +1,12 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
-from datetime import datetime, timedelta
-import matplotlib.pyplot as plt
-from sklearn.cluster import DBSCAN
-from sklearn.preprocessing import StandardScaler
+import streamlit as st          # Web application framework for creating interactive data apps
+import pandas as pd             # Data manipulation and analysis library
+import numpy as np              # Numerical computing library for array operations and mathematical functions
+import plotly.express as px     # High-level interface for creating interactive visualizations
+import plotly.graph_objects as go  # Low-level interface for creating custom interactive visualizations
+from datetime import datetime, timedelta  # Standard library for working with dates and times
+import matplotlib.pyplot as plt  # Comprehensive visualization library for static plots
+from sklearn.cluster import DBSCAN  # Density-Based Spatial Clustering of Applications with Noise for cluster analysis
+from sklearn.preprocessing import StandardScaler  # For standardizing features by removing the mean and scaling to unit variance
 
 
 # Page configuration
