@@ -88,7 +88,7 @@ earthquakes_app/
 
 | General Summary | Geographic Map | Cluster Analysis |
 |:--------------:|:-------------:|:---------------:|
-| ![Summary](https://img.icons8.com/color/48/summary-list.png) | ![Map](https://img.icons8.com/color/48/worldwide-location.png) | ![Cluster](https://img.icons8.com/color/48/cluster.png) |
+| ![Summary](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENJURf5Cxbr6iPL3Sij772fLZvQyNP2HS7g&s) | ![Map](https://img.icons8.com/color/48/worldwide-location.png) | ![Cluster](https://cdn-icons-png.freepik.com/256/16242/16242904.png?semt=ais_hybrid) |
 
 ---
 
@@ -156,12 +156,6 @@ You can recreate a similar image using the same prompt and settings in any of th
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements, bug fixes, or new features.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
