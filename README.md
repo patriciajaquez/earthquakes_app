@@ -84,14 +84,6 @@ earthquakes_app/
 
 ---
 
-## 📊 Example Screenshots
-
-| General Summary | Geographic Map | Cluster Analysis |
-|:--------------:|:-------------:|:---------------:|
-| ![Summary](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENJURf5Cxbr6iPL3Sij772fLZvQyNP2HS7g&s) | ![Map](https://img.icons8.com/color/48/worldwide-location.png) | ![Cluster](https://cdn-icons-png.freepik.com/256/16242/16242904.png?semt=ais_hybrid) |
-
----
-
 ## 🧩 Data Format
 
 The dashboard expects a CSV file (`all_month.csv`) with at least the following columns:
