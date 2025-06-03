@@ -42,7 +42,7 @@
 
 ## 📂 Project Structure
 
-```
+<pre lang="text">
 earthquakes_app/
 │
 ├── app.py                         # Main Streamlit dashboard
@@ -52,7 +52,7 @@ earthquakes_app/
 │   └── earthquakeappbanner.png    # Banner
 ├── requirements.txt               # Python dependencies
 └── README.md                      # Project documentation
-```
+</pre>
 
 ---
 
